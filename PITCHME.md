@@ -5,9 +5,7 @@
 <br>
 ---
 
-## Obiettivi
-<br>
-<br>
+## OBIETTIVI
 <br>
 <br>
 ---
@@ -28,7 +26,6 @@ AWX -> Tower (prodotto RH)
 Migrazione Servizi (e.g. U-BUY)
 
 Dismissione vecchie "piattaforme" di automazione
-<br>
 <br>
 <br>
 <br>
