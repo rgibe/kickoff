@@ -7,13 +7,13 @@
 ---
 
 ## "Adozione" Portale PSP
-
+<br>
 https://psp-console.cineca.it/dashboard
 
 ---
 
 ## Automazione Ansible "Enterprise Level":
-
+<br>
 AWX -> Tower (prodotto RH)
 
 Migrazione Servizi (e.g. U-BUY)
