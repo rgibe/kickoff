@@ -1,9 +1,15 @@
 ## IT Infrastructure Automation
-
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## Obbiettivi
-
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## "Adozione" Portale PSP
