@@ -7,9 +7,9 @@
 ---
 
 ## "Adozione" Portale PSP
-<br>
-https://psp-console.cineca.it/dashboard
 
+https://psp-console.cineca.it/dashboard
+<br>
 ---
 
 ## Automazione Ansible "Enterprise Level":
@@ -36,3 +36,4 @@ CaaS (K8s) su AWS
 
 ### Apertura e Condivisione
 ## con TUTTI SEMPRE
+<br>
