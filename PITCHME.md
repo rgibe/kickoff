@@ -1,8 +1,8 @@
-## IT Infrastructure Automation
+# IT Infrastructure Automation
 
 ---
 
-## Obbiettivi
+# Obbiettivi
 
 ---
 
@@ -13,7 +13,7 @@ https://psp-console.cineca.it/dashboard
 ---
 
 ## Automazione Ansible "Enterprise Level":
-
+<p align="left">
 - AWX -> Tower (prodotto RH)
 - Migrazione Servizi (e.g. U-BUY)
 - Dismissione vecchie "piattaforme" di automazione
