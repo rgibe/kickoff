@@ -5,7 +5,7 @@
 <br>
 ---
 
-## Obbiettivi
+## Obiettivi
 <br>
 <br>
 <br>
@@ -45,7 +45,7 @@ Dismissione vecchie "piattaforme" di automazione
 
 ## Sperimentazione su Cloud
 <br>
-CaaS (K8s) su AWS
+CaaS (K8s)
 <br>
 <br>
 <br>
