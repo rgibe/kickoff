@@ -1,4 +1,4 @@
-## Team Automation
+## IT Infrastructure Automation
 
 ---
 
@@ -12,20 +12,21 @@ https://psp-console.cineca.it/dashboard
 
 ---
 
-- Automazione Ansible "Enterprise Level":
-  - AWX -> Tower (prodotto RH)
-  - migrazione dei servizi sulla nuova infrastruttura (e.g. U-BUY)
-  - dismissione progressiva delle vecchie "piattaforme" di automazione:
-    - "ansible Cavaletti"
-    - "puppet02"
+## Automazione Ansible "Enterprise Level":
+
+- AWX -> Tower (prodotto RH)
+- Migrazione Servizi (e.g. U-BUY)
+- Dismissione vecchie "piattaforme" di automazione
 
 ---
 
-- PaaS Openshift "Enterprise Level"
-  - continuo miglioramento
+## PaaS Openshift "Enterprise Level"
 
-- Sperimentazione su Cloud
-  - CaaS (K8s) su AWS
+ continuo miglioramento
+
+## Sperimentazione su Cloud
+
+CaaS (K8s) su AWS
 
 ---
 
