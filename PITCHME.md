@@ -24,11 +24,13 @@ https://psp-console.cineca.it/dashboard
 
  continuo miglioramento
 
+---
+
 ## Sperimentazione su Cloud
 
 CaaS (K8s) su AWS
 
 ---
 
-### Apertura e Condivisione con OPS
-# SEMPRE
+### Apertura e Condivisione
+# con TUTTI SEMPRE
