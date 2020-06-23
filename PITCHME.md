@@ -6,8 +6,9 @@
 
 ---
 
-- "Adozione" Portale PSP
-  - https://psp-console.cineca.it/dashboard
+## "Adozione" Portale PSP
+
+https://psp-console.cineca.it/dashboard
 
 ---
 
